@@ -1,0 +1,122 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "keep in touch",
+      "url": "https://i.ytimg.com/vi/HkwQn2S9qm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_qdt9B9nTFCQHkmHTBX70JXW4VQ",
+      "link": "https://www.youtube.com/embed/CJhiQq8LRIE"
+    },
+    {
+      "id": "3",
+      "caption": "keep in touch",
+      "url": "https://i.ytimg.com/vi/HkwQn2S9qm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_qdt9B9nTFCQHkmHTBX70JXW4VQ",
+      "link": "https://www.youtube.com/embed/CJhiQq8LRIE"
+    },
+    {
+      "id": "2",
+      "caption": "Vazha",
+      "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2024/8/17/vazha.jpg",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "4",
+      "caption": "Jam",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDavw_DjnkQlFyBBkuH8CNUI6Sg0SQezcbjg&s",
+      "link": "https://www.youtube.com/embed/VNMs0hniZSE"
+    },
+    {
+      "id": "5",
+      "caption": "ARM",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Ajayante_Randam_Moshanam.jpg",
+      "link": "https://www.youtube.com/embed/rFgS10V8908"
+    }
+  ],
+  "history": [
+    {
+      "caption": "ARM",
+      "link": "https://www.youtube.com/embed/rFgS10V8908",
+      "timeStamp": "09/24/2024, 10:39:49 AM",
+      "id": 1
+    },
+    {
+      "caption": "keep in touch",
+      "link": "https://www.youtube.com/embed/CJhiQq8LRIE",
+      "timeStamp": "09/24/2024, 10:50:05 AM",
+      "id": 2
+    },
+    {
+      "caption": "Jam",
+      "link": "https://www.youtube.com/embed/VNMs0hniZSE",
+      "timeStamp": "09/25/2024, 09:49:32 AM",
+      "id": 3
+    },
+    {
+      "caption": "Vazha",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timeStamp": "09/25/2024, 10:42:56 AM",
+      "id": 4
+    },
+    {
+      "caption": "keep in touch",
+      "link": "https://www.youtube.com/embed/CJhiQq8LRIE",
+      "timeStamp": "09/25/2024, 10:57:05 AM",
+      "id": 5
+    },
+    {
+      "caption": "Vazha",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timeStamp": "09/26/2024, 09:06:55 AM",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailer",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Vazha",
+          "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2024/8/17/vazha.jpg",
+          "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+        },
+        {
+          "id": "1",
+          "caption": "keep in touch",
+          "url": "https://i.ytimg.com/vi/HkwQn2S9qm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_qdt9B9nTFCQHkmHTBX70JXW4VQ",
+          "link": "https://www.youtube.com/embed/CJhiQq8LRIE"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Jam",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDavw_DjnkQlFyBBkuH8CNUI6Sg0SQezcbjg&s",
+          "link": "https://www.youtube.com/embed/VNMs0hniZSE"
+        },
+        {
+          "id": "3",
+          "caption": "keep in touch",
+          "url": "https://i.ytimg.com/vi/HkwQn2S9qm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_qdt9B9nTFCQHkmHTBX70JXW4VQ",
+          "link": "https://www.youtube.com/embed/CJhiQq8LRIE"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "ARM",
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Ajayante_Randam_Moshanam.jpg",
+          "link": "https://www.youtube.com/embed/rFgS10V8908"
+        }
+      ]
+    }
+  ]
+}
